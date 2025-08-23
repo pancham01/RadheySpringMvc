@@ -7,6 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body bgcolor="pink">
-	<h1>Welcome my friend welcome with Java based config</h1>
+	<h1>Welcome my friend welcome</h1>
+	<h2>Your name is:  ${name}</h2>
 </body>
 </html>
