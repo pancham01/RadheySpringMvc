@@ -5,7 +5,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @Controller
 @RequestMapping("/footwear")
-public class EmployeeController {
+public class FootwearController {
 	
 	
 	@RequestMapping("/")
