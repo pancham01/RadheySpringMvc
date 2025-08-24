@@ -8,7 +8,7 @@
 	<h2>Employee Form</h2>
 	
 					<!-- http://localhost:8080/RadheySpringMvc/ -->
-	<form action="${pageContext.request.contextPath}/employee/submit"method="post">
+	<form action="${pageContext.request.contextPath}/employee/save"method="post">
 		<label for="name">Name:</label> <input type="text" id="name" name="name" /><br />
 		<br /> <label for="department">Department:</label> <input type="text"
 			id="department" name="department" /><br />
